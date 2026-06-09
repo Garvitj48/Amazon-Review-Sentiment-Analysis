@@ -207,6 +207,6 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fo
 
 ## 👤 Author
 
-**[Your Name]**  
+**[Garvit Joshi]**  
 B.Tech Computer Science | Machine Learning Enthusiast  
-🔗 GitHub: [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+🔗 GitHub: [Garvitj48](https://github.com/Garvitj48)
